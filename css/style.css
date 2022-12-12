@@ -1,0 +1,98 @@
+.color{
+    height: 2500px;
+    width: 1362px;
+    padding: 0px;
+    margin: 10px;
+    margin-top: 17px;
+    background-color: lightgoldenrodyellow;
+
+}
+button{
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 30px;
+    position: fixed;
+    right: 10px;
+    top: 20px;
+    color: black;
+    border: none;
+    padding: 0;
+    margin-top: -25px;
+    cursor: pointer;
+}
+
+
+.article-form {
+    width: 1000px;
+    height: 1500px;
+    background-color:white;
+    border: 1px solid rgb(211, 206, 206);
+    padding: 34px 26px;
+    margin:60px;
+    float: left;
+    cursor: pointer;
+    border-radius: 25px;
+    position: absolute;
+    right: 9%;
+    top: -3%;
+}
+.box1{
+    border: 2px solid rgb(211, 206, 206);
+    padding-right: 15px;
+}
+.p{
+    text-align: center;
+    font-size: 27px;
+    font-weight: bold;
+}
+.p2{
+margin-right: -10px;
+}
+.p3{
+    margin-top: 6px;
+}
+.span{
+    font-weight: bold;
+}
+.email{
+    width: 200px;
+}
+.form-control {
+        width: 200px;
+}
+.box2{
+    border: 2px solid rgb(211, 206, 206);
+    padding-right: 15px;
+    position: relative;
+    bottom: 1%;
+}
+.box3{
+    border: 2px solid rgb(211, 206, 206);
+    padding-right: 15px;
+    padding: 10px;
+    position: relative;
+    bottom: 2%;
+}
+.p4{
+    display: inline;
+    margin-right: 15px;
+}
+.box4{
+    border: 2px solid rgb(211, 206, 206);
+    padding-right: 15px;
+    padding: 10px;
+}
+.box5{
+    border: 2px solid rgb(211, 206, 206);
+    padding-right: 15px;
+    padding: 10px;
+}
+.button{
+    display: inline;
+}
+/* .form-control {
+    padding: .375rem 10.75rem .100rem;
+} */
+
+
+
+
